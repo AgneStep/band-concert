@@ -1,0 +1,68 @@
+body {
+    background-color:rgb(175, 175, 175);
+    cursor: cell;
+  }
+  h1{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    font-size: 4em;
+    font-family:  Arial, Helvetica, sans-serif;
+   }
+
+   p{
+    color: rgb(255, 0, 179);
+    font-size: 1.2em;
+    font-family:  Arial, Helvetica, sans-serif;
+   }
+
+   p2{
+    color: rgb(0, 81, 255);
+    font-size: 1em;
+    font-family:  Arial, Helvetica, sans-serif;
+   }
+
+   p3{
+    color: rgb(144, 30, 219);
+    font-size: 1em;
+    font-family:  Arial, Helvetica, sans-serif;
+   }
+
+   img {
+    border-style: double;
+    border-width:thick;
+    border-color: rgb(255, 0, 179);
+    text-align: center;
+   }
+
+.Youtube{
+    width: 400px;
+    height: 300px;
+    border-style: double;
+    border-width:thick;
+    border-color: chartreuse;
+   }
+  
+   .Spotify {
+    width: 100%;
+    height: auto;
+   }
+
+   .fa-brands  {
+    color:rgb(230, 34, 155);
+   }
+  
+   video {
+    width:600px ;
+    height: 400px;
+   }
+
+   input {
+color: rgb(95, 31, 148);
+font-size: 1em;
+
+   }
+
+   label {
+    color: blueviolet;
+    
+   }
